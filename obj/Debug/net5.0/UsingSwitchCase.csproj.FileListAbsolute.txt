@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\UsingSwitchCase.exe
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\UsingSwitchCase.deps.json
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\UsingSwitchCase.runtimeconfig.json
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\UsingSwitchCase.runtimeconfig.dev.json
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\UsingSwitchCase.dll
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\ref\UsingSwitchCase.dll
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\bin\Debug\net5.0\UsingSwitchCase.pdb
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.AssemblyInfo.cs
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.dll
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\ref\UsingSwitchCase.dll
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.pdb
+D:\projetos\ams\1ano\estruturaSwitchCase\UsingSwitchCase\obj\Debug\net5.0\UsingSwitchCase.genruntimeconfig.cache
