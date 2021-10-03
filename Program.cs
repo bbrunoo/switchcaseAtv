@@ -13,11 +13,11 @@ namespace UsingSwitchCase
 
             //{
                     //case valor1:
-                        // fazer algo refeerente ao valor 1
+                        // fazer algo referente ao valor 1
                     //break;
 
                     //case valor1:
-                        // fazer algo refeerente ao valor 1
+                        // fazer algo referente ao valor 1
                     //break;
             //}
             WriteLine("Digite o numero do mês");
